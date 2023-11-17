@@ -1,0 +1,46 @@
+
+
+As a tech enthusiast, based on my experience, I might not have the solution for all the questions at my fingertips but Im damn sure that I'm gonna find a way to break the puzzle on my plate in some or other way.
+
+As a developer who codes, As an operational engineer who does CI/CD, and As a cloud solutions architect who architects best cloud practices, I am excited to apply for this role. I am confident that my skills and experience align well with the requirements of the role and I am eager to bring my expertise to your team. I look forward to the opportunity to discuss how I can contribute to the success of your organization.
+
+As an ENFJ, 🙌
+I am passionate about building communities and always seeking new learning opportunities. 
+
+My interests include coding, music, and gaming, which all play a significant role in fueling my creativity and keeping me energized. ✨
+
+Attending meet-ups is something I enjoy doing because it allows me to connect with like-minded individuals and collaborate on exciting projects. 📈
+
+I take pride in being a doer and bringing my best to every project I am involved in. 💯
+With a background in coding and a love for technology, 
+l am constantly exploring innovative ways to leverage technology for positive impact. 💪
+
+If you're looking for someone like me who is passionate, collaborative, and always eager to learn, 
+Let's connect!🤝
+
+
+Proven experience of using AWS cloud technologies and delivering Cloud solutions at scale, preferably with a focus on security or networking.
+Experience in Infrastructure as Code (IaC) using e g AWS CloudFormation, Terraform, AWS ADF and AWS StackSets.
+Exposure to EKS as a Kubernetes Admin
+At least one AWS Associate level Certification is a must (Practitioner Level, if it is the role for On-boarding Team).
+Knowledge/working experience in Agile methodologies and DevSecOps
+
+
+"I am excited to apply for the DevOps Engineer role at [Company Name]. My experience in automating infrastructure deployment and management, as well as my strong background in both software development and systems administration, make me a strong candidate for this position. I am confident that my skills and experience align well with the requirements of the role and I am eager to bring my expertise to your team. I look forward to the opportunity to discuss how I can contribute to the success of your organization."
+
+"As a highly skilled and experienced DevOps Engineer, I am excited to apply for the role at [Company Name]. I have a proven track record of success in automating and streamlining infrastructure operations, as well as a strong background in both software development and systems administration. I am well-versed in a variety of industry-leading tools and technologies, and am always eager to learn and stay up-to-date on new developments in the field. I am confident that my skills and experience make me a valuable asset to your team, and I am excited about the opportunity to contribute to the ongoing success of your organization."
+
+I am highly passionate about DevOps and enjoy thinking through issues from a full-stack perspective. The integration of development and operations interests me greatly and I am eager to learn more about the big picture. I believe ANZ is an excellent opportunity for me to grow as a professional and develop my skills, and I am excited to be a part of the company's positive work culture. My skills align well with the role I am applying for and I am eager to contribute to the company's future success.
+
+I am interested in the DevOps role because I have a strong background in both software development and system administration. I am passionate about creating solutions to automate common tasks and streamline operations. I have experience in scripting various technologies and solving complex problems, which makes me well-suited for this role. I believe ANZ is an excellent opportunity for me to grow as a professional and develop my skills, and I am excited to be a part of the company's positive work culture. My skills align well with the role I am applying for and I am eager to contribute to the company's future success.
+
+I bring a wealth of knowledge, skills, and experience to the DevOps role. My technical background includes over 2 years of experience deploying, maintaining, and troubleshooting distributed systems, as well as experience with automation, containerization, and orchestration technologies, such as Docker, Kubernetes, Istio, and Jenkins. I also have extensive experience with Linux administration, as well as cloud infrastructure, including Amazon Web Services and Google Cloud.
+
+Other qualifications include strong communication and collaboration skills, the ability to prioritize and multitask, and proficiency in scripting languages such as Bash and Python. I have a thorough understanding of the development cycle, including source control, continuous integration, and test-driven development. I am also familiar with various programming languages such as Java, C++, and JavaScript. Finally, I have experience implementing and managing monitoring solutions, such as Grafana and Prometheus.
+
+1. Opportunities for professional development
+2. A positive work-life balance
+3. A competitive salary
+
+Responsible for architecting deployments for High availability, scalability, and reliability
+Design and implement platforms for monitoring, log processing, metrics collection and data visualization.

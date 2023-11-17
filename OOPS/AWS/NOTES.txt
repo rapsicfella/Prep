@@ -1,0 +1,27 @@
+An anycast IP address is an IP address assigned to multiple devices or nodes, with the routing infrastructure directing packets addressed to that IP address to the nearest or most optimal node based on routing metrics such as network distance or latency. Essentially, multiple servers share the same IP address, and the network routes traffic to the nearest one.
+
+AWS Global Accelerator utilizes anycast IP addresses to route traffic over the AWS global network to the optimal AWS endpoint based on health, geography, and routing policies. Here's how AWS Global Accelerator uses anycast IP addresses:
+
+1. **Anycast IP Assignment:**
+   - AWS Global Accelerator provides you with a pair of static anycast IP addresses.
+   - These IP addresses are announced from multiple AWS locations globally.
+
+2. **Traffic Routing:**
+   - When a client sends a request to the anycast IP address, the request is directed to the nearest AWS Global Accelerator endpoint based on network proximity.
+   - The routing decision is made using the AWS global network, which leverages the Border Gateway Protocol (BGP) to route traffic to the closest healthy endpoint.
+
+3. **Health Checking:**
+   - AWS Global Accelerator continuously monitors the health of your application endpoints.
+   - Unhealthy endpoints are automatically removed from the anycast IP address, and traffic is redirected to healthy endpoints.
+
+4. **Traffic Distributions:**
+   - You can configure traffic distributions using weighted routing or endpoint weights to control the proportion of traffic sent to different AWS regions or endpoints.
+
+5. **Failover and Availability:**
+   - AWS Global Accelerator automatically reroutes traffic to healthy endpoints in case of an endpoint failure, ensuring high availability and fault tolerance.
+
+6. **Accelerated Performance:**
+   - The use of anycast IP addresses combined with the AWS global network infrastructure helps reduce latency and improve the overall performance of your applications.
+
+In summary, AWS Global Accelerator leverages anycast IP addresses to provide a highly available, scalable, and performant solution for directing traffic to optimal AWS endpoints across the globe. This helps improve the global reach and reliability of applications hosted on AWS.
+
